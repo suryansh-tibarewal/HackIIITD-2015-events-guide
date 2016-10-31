@@ -1,6 +1,6 @@
 ## HackIIITD-2015-events-guide
 
-A Delhi events android app, which can act as a complete master control for an explorer. It provides the user with the list of events happening around him ( all events as well as the events specially recommended for him), list of nearby places including restaurants, shopping places, nearby attractions, hotels ,distance from current location; basically a complete Tour Guide! 
+A Delhi events Android app, which can act as a complete master control for an explorer. It provides the user with a list of events happening around him or her (all events as well as the events specially recommended for the user), a list of nearby places including restaurants, shopping places, nearby attractions, hotels, and their distance from the user's current location - basically a complete Tour Guide! 
 
 
 ![S2](/../master/app/src/main/res/drawable/s2.png "")
